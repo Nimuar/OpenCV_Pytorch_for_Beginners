@@ -57,3 +57,8 @@ Code will evolve and be cleaned up over time — this is a live learning repo.
 ## 📜 License
 
 This repository contains educational work based on OpenCV’s course materials. All code here is for personal learning and open sharing, under the MIT License.
+
+## 🔍 Sources
+
+- Jupyter Notebook: [Jupyter for VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- Anaconda: [Working with Conda](https://www.anaconda.com/docs/tools/working-with-conda/main)
