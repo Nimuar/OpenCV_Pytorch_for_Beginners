@@ -1,6 +1,6 @@
-# PyTorch Bootcamp: Deep Learning with OpenCV
+# PyTorch Bootcamp with OpenCV
 
-This repository contains my personal code, notes, and experiments while going through the PyTorch Bootcamp: Deep Learning with OpenCV course.
+This repository contains my personal code, notes, and experiments while going through the PyTorch Bootcamp with OpenCV course.
 
 While the course recommends Google Colab for running notebooks, I’m using Jupyter Notebooks via Anaconda in VS Code for local development and GPU experimentation (where supported).
 
@@ -42,7 +42,7 @@ Gain hands-on experience with PyTorch fundamentals.
 
 Practice image classification and computer vision workflows using OpenCV.
 
-Build small but complete deep learning projects using best practices.
+Build small but complete projects using best practices.
 
 Adapt examples from Google Colab to run locally on a Jupyter setup.
 
