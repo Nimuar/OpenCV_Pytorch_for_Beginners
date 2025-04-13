@@ -4,7 +4,7 @@ This repository contains my personal code, notes, and experiments while going th
 
 While the course recommends Google Colab for running notebooks, I’m using Jupyter Notebooks via Anaconda in VS Code for local development and GPU experimentation (where supported).
 
-💻 ## Setup
+## 💻 Setup
 
 I'm working locally with the following stack:
 
@@ -22,26 +22,21 @@ AMD GPUs are not currently supported for PyTorch acceleration on Windows, so all
 
 To set up the environment:
 
-### Create conda environment
+```bash
+# Create conda environment
 conda create -n opencv_dl python=3.10
 conda activate opencv_dl
 
-### Install required packages
+# Install required packages
 pip install torch torchvision torchaudio
 pip install opencv-python matplotlib numpy jupyter wget
+```
 
-📁 ## Folder Structure
+## 📁 Folder Structure
 
-Each section/module from the course will have its own folder:
+Each section/module from the course will have its own folder.
 
-├── 01_intro/
-├── 02_data_loading/
-├── 03_model_training/
-├── 04_transfer_learning/
-├── 05_custom_datasets/
-└── ...
-
-🚀 ## Goals
+## 🚀 Goals
 
 Gain hands-on experience with PyTorch fundamentals.
 
@@ -51,7 +46,7 @@ Build small but complete deep learning projects using best practices.
 
 Adapt examples from Google Colab to run locally on a Jupyter setup.
 
-🧠 ## Notes
+## 🧠 Notes
 
 All notebooks are documented with comments and visualizations.
 
@@ -59,6 +54,6 @@ Some image download links may throw errors (403 Forbidden) when accessed without
 
 Code will evolve and be cleaned up over time — this is a live learning repo.
 
-📜 ## License
+## 📜 License
 
 This repository contains educational work based on OpenCV’s course materials. All code here is for personal learning and open sharing, under the MIT License.
